@@ -1,2 +1,2 @@
-#display output
-#### what other commands should I know?
+# display the output
+pring("New Python file")
